@@ -1,3 +1,4 @@
+<img src="https://github.com/alexgomb/alexgomb/blob/main/banner_alexgomb.png" alt="Alejandro Gombau Banner" width="100%" />
 <h2 align="center">👋 Hi there! I'm Alejandro Gombau (Alex)</h2>
 
 <p align="center">
